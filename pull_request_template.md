@@ -8,7 +8,7 @@
 
 * [ ] The unit tests still run.
 * [ ] I have added a unit test for the changed code (also for bug fixes!) or N/A.
-* [ ] I have peformed a self codereviewed
+* [ ] I have performed a self code review
 * [ ] I have added logging with the right loglevels where necessary
 * [ ] I have added a configuration option
 * * * [ ] The code is still compatible with old configuration 
