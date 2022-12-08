@@ -1,8 +1,11 @@
 ## Describe your changes
 
-## Issue ticket number and link
+
+###  Issue ticket number and link
 - [JIRA_TICKET](https://jira.pti.nl/browse/JIRA_TICKET)
 
+## Checklists
+N/A items can be removed
 
 ### Developer: 
 
