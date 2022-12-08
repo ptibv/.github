@@ -16,7 +16,7 @@
 * * [ ] The code crashes with a specific error message about missing configuration
 * * [ ] i have added the configuration change to the example config.
 * [ ] I have tested the functionality/fix locally.
-* [ ] I have documented where i have deviated from the original requirements in the jira ticket.
+* [ ] I have documented where I have deviated from the original requirements in the jira ticket.
 
 ### Reviewer [^1]:
 
