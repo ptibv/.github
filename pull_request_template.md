@@ -24,3 +24,9 @@
 * [ ] Code is linted and formatted correctly.
 * [ ] The proposed solution seems logical to me.
 * [ ] The code is clear.
+
+
+## Note before merging
+Remember to merge locally and to version bump accordingly. 
+
+Please also run the unit tests before your final push to avoid breaking the build.
