@@ -4,10 +4,7 @@
 ###  Issue ticket number and link
 - [JIRA_TICKET](https://jira.pti.nl/browse/JIRA_TICKET)
 
-## Checklists
-N/A items can be removed
-
-### Developer: 
+### Developer [^1]: 
 
 * [ ] The unit tests still run.
 * [ ] I have added a unit test for the changed code (also for bug fixes!) or N/A.
@@ -21,7 +18,7 @@ N/A items can be removed
 * [ ] I have tested the functionality/fix locally.
 * [ ] I have documented where i have deviated from the original requirements in the jira ticket.
 
-### Reviewer:
+### Reviewer [^1]:
 
 * [ ] Changes have fitting unit tests.
 * [ ] Code is linted and formatted correctly.
@@ -33,3 +30,5 @@ N/A items can be removed
 Remember to merge locally and to version bump accordingly. 
 
 Please also run the unit tests before your final push to avoid breaking the build.
+
+[^1]: Items are allowed to be removed by the author if they deem them not applicable.
