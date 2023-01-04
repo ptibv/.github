@@ -31,4 +31,4 @@ Remember to merge locally and to version bump accordingly.
 
 Please also run the unit tests before your final push to avoid breaking the build.
 
-[^1]: Items are allowed to be removed by the author if they deem them not applicable.
+[^1]: Items should be removed by the author if they deem them not applicable.
