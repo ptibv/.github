@@ -8,12 +8,12 @@
 
 * [ ] The unit tests still run.
 * [ ] I have added a unit test for the changed code (also for bug fixes!)
-* [ ] I have performed a self code review
-* [ ] I have added logging with the right log levels where necessary
-* [ ] I have added a configuration option
-* * [ ] The code is still compatible with old configuration 
+* [ ] I have performed a self code review.
+* [ ] I have added logging with the right log levels where necessary.
+* [ ] I have added a configuration option.
+* * [ ] The code is still compatible with old configuration.
 * ↑ ↓ Or
-* * [ ] The code crashes with a specific error message about missing configuration
+* * [ ] The code crashes with a specific error message about missing configuration.
 * * [ ] I have added the configuration change to the example config.
 * [ ] I have tested the functionality/fix locally.
 * [ ] I have documented where I have deviated from the original requirements in the jira ticket.
