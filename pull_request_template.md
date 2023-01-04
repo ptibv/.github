@@ -7,7 +7,7 @@
 ### Developer [^1]: 
 
 * [ ] The unit tests still run.
-* [ ] I have added a unit test for the changed code (also for bug fixes!) or N/A.
+* [ ] I have added a unit test for the changed code (also for bug fixes!)
 * [ ] I have performed a self code review
 * [ ] I have added logging with the right log levels where necessary
 * [ ] I have added a configuration option
