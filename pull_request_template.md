@@ -2,7 +2,7 @@
 
 
 ###  Issue ticket number and link
-- [JIRA_TICKET](https://jira.pti.nl/browse/JIRA_TICKET)
+- [JIRA_TICKET](https://ptibvnl.atlassian.net/browse/JIRA_TICKET)
 
 ### Developer [^1]: 
 
