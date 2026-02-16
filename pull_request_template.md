@@ -20,6 +20,7 @@
 * [ ] Code is linted and formatted correctly.
 * [ ] The proposed solution seems logical to me.
 * [ ] The code is clear.
+* [ ] Release requirements are clear.
 
 
 ## Note before merging
